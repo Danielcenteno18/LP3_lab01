@@ -13,7 +13,7 @@ public class Principal {
 	        try (Scanner sc = new Scanner(System.in)) {
 				do {
 					vida++;
-					System.out.println("V2");
+					System.out.println("V3");
 					System.out.println("vida:"+vida+"\t¿cual es el numero secreto?");
 					rp = sc.nextInt();
 					if (rp == 1234){
